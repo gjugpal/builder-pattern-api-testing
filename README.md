@@ -6,7 +6,7 @@
 <h3 align="center">Automated API testing using the Builder Pattern</h3>
 
 <div align="center">
-  Using Simple demonstration of testing APIs using the <code>builder pattern</code> and <code>GSON</code>
+  Simple demonstration of testing APIs using the <code>builder pattern</code> and <code>GSON</code>
 </div>
 
 
